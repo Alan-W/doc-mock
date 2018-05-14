@@ -1,0 +1,19 @@
+{
+  "name": "doc-mock",
+  "version": "1.1.6",
+  "description": "【优信前端】获取远程mock数据，写入本地文件夹",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alan",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "chalk": "^2.3.2",
+    "fs": "0.0.1-security",
+    "json-format": "^1.0.1",
+    "mkdirp": "^0.5.1",
+    "underscore": "^1.8.3"
+  }
+}
